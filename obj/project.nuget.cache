@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eNtbgy5e3BY=",
+  "success": true,
+  "projectFilePath": "/Users/pc/RiderProjects/smartStore/smartStore/smartStore.csproj",
+  "expectedPackageFiles": [
+    "/Users/pc/.nuget/packages/bcrypt.net-next/4.0.3/bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
