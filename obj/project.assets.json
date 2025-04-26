@@ -56,19 +56,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/pc/.nuget/packages/": {}
+    "C:\\Users\\hw111\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/pc/RiderProjects/smartStore/smartStore/smartStore.csproj",
+      "projectUniqueName": "C:\\Users\\hw111\\Documents\\program\\ShippingAgency\\smartStore.csproj",
       "projectName": "smartStore",
-      "projectPath": "/Users/pc/RiderProjects/smartStore/smartStore/smartStore.csproj",
-      "packagesPath": "/Users/pc/.nuget/packages/",
-      "outputPath": "/Users/pc/RiderProjects/smartStore/smartStore/obj/",
+      "projectPath": "C:\\Users\\hw111\\Documents\\program\\ShippingAgency\\smartStore.csproj",
+      "packagesPath": "C:\\Users\\hw111\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hw111\\Documents\\program\\ShippingAgency\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/pc/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\hw111\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -119,7 +119,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/Users/pc/.dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

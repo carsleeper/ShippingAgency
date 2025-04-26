@@ -15,3 +15,12 @@
 /Users/pc/RiderProjects/smartStore/smartStore/obj/Debug/net9.0/smartStore.pdb
 /Users/pc/RiderProjects/smartStore/smartStore/obj/Debug/net9.0/smartStore.genruntimeconfig.cache
 /Users/pc/RiderProjects/smartStore/smartStore/obj/Debug/net9.0/ref/smartStore.dll
+C:\Users\hw111\Documents\program\ShippingAgency\obj\Debug\net9.0\smartStore.csproj.AssemblyReference.cache
+C:\Users\hw111\Documents\program\ShippingAgency\obj\Debug\net9.0\smartStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hw111\Documents\program\ShippingAgency\obj\Debug\net9.0\smartStore.AssemblyInfoInputs.cache
+C:\Users\hw111\Documents\program\ShippingAgency\obj\Debug\net9.0\smartStore.AssemblyInfo.cs
+C:\Users\hw111\Documents\program\ShippingAgency\obj\Debug\net9.0\smartStore.csproj.CoreCompileInputs.cache
+C:\Users\hw111\Documents\program\ShippingAgency\obj\Debug\net9.0\smartStore.sourcelink.json
+C:\Users\hw111\Documents\program\ShippingAgency\obj\Debug\net9.0\smartStore.dll
+C:\Users\hw111\Documents\program\ShippingAgency\obj\Debug\net9.0\refint\smartStore.dll
+C:\Users\hw111\Documents\program\ShippingAgency\obj\Debug\net9.0\smartStore.pdb

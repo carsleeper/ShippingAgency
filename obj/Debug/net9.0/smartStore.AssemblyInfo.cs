@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("smartStore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0078dfd64370f1d8d25e2e375a394225df626b00")]
 [assembly: System.Reflection.AssemblyProductAttribute("smartStore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("smartStore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
