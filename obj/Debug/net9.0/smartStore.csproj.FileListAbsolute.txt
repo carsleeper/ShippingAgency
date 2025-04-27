@@ -24,3 +24,12 @@ C:\Users\hw111\Documents\program\ShippingAgency\obj\Debug\net9.0\smartStore.sour
 C:\Users\hw111\Documents\program\ShippingAgency\obj\Debug\net9.0\smartStore.dll
 C:\Users\hw111\Documents\program\ShippingAgency\obj\Debug\net9.0\refint\smartStore.dll
 C:\Users\hw111\Documents\program\ShippingAgency\obj\Debug\net9.0\smartStore.pdb
+C:\Users\hw111\Documents\program\ShippingAgency\bin\Debug\net9.0\smartStore.exe
+C:\Users\hw111\Documents\program\ShippingAgency\bin\Debug\net9.0\smartStore.deps.json
+C:\Users\hw111\Documents\program\ShippingAgency\bin\Debug\net9.0\smartStore.runtimeconfig.json
+C:\Users\hw111\Documents\program\ShippingAgency\bin\Debug\net9.0\smartStore.dll
+C:\Users\hw111\Documents\program\ShippingAgency\bin\Debug\net9.0\smartStore.pdb
+C:\Users\hw111\Documents\program\ShippingAgency\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\Users\hw111\Documents\program\ShippingAgency\obj\Debug\net9.0\smartStore.csproj.Up2Date
+C:\Users\hw111\Documents\program\ShippingAgency\obj\Debug\net9.0\smartStore.genruntimeconfig.cache
+C:\Users\hw111\Documents\program\ShippingAgency\obj\Debug\net9.0\ref\smartStore.dll
